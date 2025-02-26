@@ -30,7 +30,6 @@ yarn-error.log*
 package-lock.json
 
 # Project specific
-output/*.json
 *.log
 linkedin_debug.png
 chromedriver.log
